@@ -147,4 +147,4 @@ npm run dev
 **Khushi**
 
 GitHub:
-https://github.com/somkuwarkhushi2305-ui
+https://github.com/khushi0923
